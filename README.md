@@ -1,5 +1,5 @@
 
-# Hello! I'm a web developer :sparkles:
+### Hello! I'm a web developer :sparkles:
 - :mailbox_with_mail: You can contact me at: wrongbyte@pm.me
 - :pencil2: I write about tech stuff on https://dev.to/wrongbyte (in Portuguese and English)
 - :briefcase: I'm currently looking for **Backend or Fullstack internship opportunities**. I'm also open for freelancer jobs.

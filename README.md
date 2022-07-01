@@ -7,4 +7,6 @@
 - :thought_balloon: I am interested in learning more about programming paradigms, such as OOP and FP. I also intend to study in depth **networking, operating systems, cryptography and security**.
 - :sparkles: I learn by doing. Therefore, I'm looking forward to develop and colaborate on exciting projects!
 
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrongbyte&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ![just a colorful divisory](https://i.imgur.com/waxVImv.png)

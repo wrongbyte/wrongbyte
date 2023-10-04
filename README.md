@@ -1,6 +1,8 @@
 ### Hello! I'm a web developer :sparkles:
-![just a colorful divisory](https://i.imgur.com/waxVImv.png)
 [![wakatime](https://wakatime.com/badge/user/8149249e-9005-4b04-886e-678549d4367a.svg)](https://wakatime.com/@8149249e-9005-4b04-886e-678549d4367a)
+
+![just a colorful divisory](https://i.imgur.com/waxVImv.png)
+
 - :mailbox_with_mail: You can contact me at: wrongbyte@pm.me
 - :pencil2: I write about random tech stuff on https://dev.to/wrongbyte
 - :briefcase: Currently working with fullstack development, using **Rust** and **Typescript**.

@@ -4,7 +4,7 @@
 ![just a colorful divisory](https://i.imgur.com/waxVImv.png)
 
 - :mailbox_with_mail: You can contact me at: wrongbyte@pm.me
-- :pencil2: I write about random tech stuff on https://dev.to/wrongbyte
+- :pencil2: I write about random tech stuff (sometimes) on https://dev.to/wrongbyte
 - :briefcase: Currently working with fullstack development, using **Rust** and **Typescript**.
     - I have also experience as a backend developer focused on microservices using **NodeJS, MongoDB, RabbitMQ**.
 - :thought_balloon: I am interested in learning more about programming paradigms, such as OOP and FP. I also intend to study in depth **networking, operating systems, cryptography and security**.
